@@ -1,3 +1,9 @@
+To get up and running
+
+* Install ruby version 2.5
+* Install bundler with `gem install bundler`
+* Run `bundle install` in project directory
+
 Run tagger.rb with file directory as argument
 
 E.g. `ruby tagger.rb ~/Documents/all_my_pdfs`
